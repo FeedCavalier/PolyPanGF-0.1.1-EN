@@ -3,6 +3,7 @@
 PolyPanGF 0.1.1 is an English-language toolkit for pan-gene-family analysis across mixed-ploidy genome assemblies. It combines family identification, orthogroup integration, occupancy and copy-number summaries, optional downstream analyses, figures and reports.
 
 The toolkit records species occupancy, dataset copy number, biological ploidy and assembly representation as separate quantities. All paths shown in this documentation are relative examples or virtual placeholders.
+![Uploading image.png…]()
 
 ## Installation
 
