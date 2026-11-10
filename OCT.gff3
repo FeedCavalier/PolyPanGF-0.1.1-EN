@@ -1,0 +1,21 @@
+##gff-version 3
+chr1	example	gene	500	749	.	+	.	ID=c1
+chr1	example	mRNA	500	749	.	+	.	ID=c1.t;Parent=c1;protein_id=c1
+chr1	example	gene	1000	1249	.	+	.	ID=c2
+chr1	example	mRNA	1000	1249	.	+	.	ID=c2.t;Parent=c2;protein_id=c2
+chr1	example	gene	1500	1749	.	+	.	ID=c3
+chr1	example	mRNA	1500	1749	.	+	.	ID=c3.t;Parent=c3;protein_id=c3
+chr1	example	gene	2000	2249	.	+	.	ID=c4
+chr1	example	mRNA	2000	2249	.	+	.	ID=c4.t;Parent=c4;protein_id=c4
+chr1	example	gene	2500	2749	.	+	.	ID=OCT_background1
+chr1	example	mRNA	2500	2749	.	+	.	ID=OCT_background1.t;Parent=OCT_background1;protein_id=OCT_background1
+chr1	example	gene	3000	3249	.	+	.	ID=OCT_background2
+chr1	example	mRNA	3000	3249	.	+	.	ID=OCT_background2.t;Parent=OCT_background2;protein_id=OCT_background2
+chr1	example	gene	3500	3749	.	+	.	ID=OCT_background3
+chr1	example	mRNA	3500	3749	.	+	.	ID=OCT_background3.t;Parent=OCT_background3;protein_id=OCT_background3
+chr1	example	gene	4000	4249	.	+	.	ID=OCT_background4
+chr1	example	mRNA	4000	4249	.	+	.	ID=OCT_background4.t;Parent=OCT_background4;protein_id=OCT_background4
+chr1	example	gene	4500	4749	.	+	.	ID=OCT_background5
+chr1	example	mRNA	4500	4749	.	+	.	ID=OCT_background5.t;Parent=OCT_background5;protein_id=OCT_background5
+chr1	example	gene	5000	5249	.	+	.	ID=OCT_background6
+chr1	example	mRNA	5000	5249	.	+	.	ID=OCT_background6.t;Parent=OCT_background6;protein_id=OCT_background6

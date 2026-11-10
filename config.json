@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "family": "Synthetic demonstration",
+  "manifest": "datasets.tsv",
+  "output": "results",
+  "threads": 2,
+  "seed": 42,
+  "identification": {
+    "candidates": "candidates.tsv"
+  },
+  "orthology": {
+    "backend": "import",
+    "groups": "groups.tsv"
+  },
+  "pan": {
+    "unit": "species",
+    "softcore_fraction": 0.9
+  },
+  "expression": {
+    "dataset": "OCT",
+    "matrix": "expression.tsv",
+    "samples": "samples.tsv",
+    "permutations": 99
+  },
+  "enrichment": {
+    "dataset": "OCT",
+    "term2gene": "terms.tsv",
+    "database": "synthetic"
+  },
+  "te": {
+    "intervals": "te.tsv",
+    "flank": 200,
+    "bins_per_region": 10
+  }
+}

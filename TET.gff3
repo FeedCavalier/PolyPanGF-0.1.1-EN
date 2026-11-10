@@ -1,0 +1,21 @@
+##gff-version 3
+chr1	example	gene	500	749	.	+	.	ID=b1
+chr1	example	mRNA	500	749	.	+	.	ID=b1.t;Parent=b1;protein_id=b1
+chr1	example	gene	1000	1249	.	+	.	ID=b2
+chr1	example	mRNA	1000	1249	.	+	.	ID=b2.t;Parent=b2;protein_id=b2
+chr1	example	gene	1500	1749	.	+	.	ID=b3
+chr1	example	mRNA	1500	1749	.	+	.	ID=b3.t;Parent=b3;protein_id=b3
+chr1	example	gene	2000	2249	.	+	.	ID=b4
+chr1	example	mRNA	2000	2249	.	+	.	ID=b4.t;Parent=b4;protein_id=b4
+chr1	example	gene	2500	2749	.	+	.	ID=TET_background1
+chr1	example	mRNA	2500	2749	.	+	.	ID=TET_background1.t;Parent=TET_background1;protein_id=TET_background1
+chr1	example	gene	3000	3249	.	+	.	ID=TET_background2
+chr1	example	mRNA	3000	3249	.	+	.	ID=TET_background2.t;Parent=TET_background2;protein_id=TET_background2
+chr1	example	gene	3500	3749	.	+	.	ID=TET_background3
+chr1	example	mRNA	3500	3749	.	+	.	ID=TET_background3.t;Parent=TET_background3;protein_id=TET_background3
+chr1	example	gene	4000	4249	.	+	.	ID=TET_background4
+chr1	example	mRNA	4000	4249	.	+	.	ID=TET_background4.t;Parent=TET_background4;protein_id=TET_background4
+chr1	example	gene	4500	4749	.	+	.	ID=TET_background5
+chr1	example	mRNA	4500	4749	.	+	.	ID=TET_background5.t;Parent=TET_background5;protein_id=TET_background5
+chr1	example	gene	5000	5249	.	+	.	ID=TET_background6
+chr1	example	mRNA	5000	5249	.	+	.	ID=TET_background6.t;Parent=TET_background6;protein_id=TET_background6

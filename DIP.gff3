@@ -1,0 +1,19 @@
+##gff-version 3
+chr1	example	gene	500	749	.	+	.	ID=a1
+chr1	example	mRNA	500	749	.	+	.	ID=a1.t;Parent=a1;protein_id=a1
+chr1	example	gene	1000	1249	.	+	.	ID=a2
+chr1	example	mRNA	1000	1249	.	+	.	ID=a2.t;Parent=a2;protein_id=a2
+chr1	example	gene	1500	1749	.	+	.	ID=a3
+chr1	example	mRNA	1500	1749	.	+	.	ID=a3.t;Parent=a3;protein_id=a3
+chr1	example	gene	2000	2249	.	+	.	ID=DIP_background1
+chr1	example	mRNA	2000	2249	.	+	.	ID=DIP_background1.t;Parent=DIP_background1;protein_id=DIP_background1
+chr1	example	gene	2500	2749	.	+	.	ID=DIP_background2
+chr1	example	mRNA	2500	2749	.	+	.	ID=DIP_background2.t;Parent=DIP_background2;protein_id=DIP_background2
+chr1	example	gene	3000	3249	.	+	.	ID=DIP_background3
+chr1	example	mRNA	3000	3249	.	+	.	ID=DIP_background3.t;Parent=DIP_background3;protein_id=DIP_background3
+chr1	example	gene	3500	3749	.	+	.	ID=DIP_background4
+chr1	example	mRNA	3500	3749	.	+	.	ID=DIP_background4.t;Parent=DIP_background4;protein_id=DIP_background4
+chr1	example	gene	4000	4249	.	+	.	ID=DIP_background5
+chr1	example	mRNA	4000	4249	.	+	.	ID=DIP_background5.t;Parent=DIP_background5;protein_id=DIP_background5
+chr1	example	gene	4500	4749	.	+	.	ID=DIP_background6
+chr1	example	mRNA	4500	4749	.	+	.	ID=DIP_background6.t;Parent=DIP_background6;protein_id=DIP_background6

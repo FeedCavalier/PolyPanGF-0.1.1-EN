@@ -1,0 +1,4 @@
+dataset	species	ploidy	represented_sets	proteins	gff	model_map	role
+DIP	Synthetic_species_A	2	1	DIP.faa	DIP.gff3	DIP.models.tsv	analysis
+TET	Synthetic_species_B	4	2	TET.faa	TET.gff3	TET.models.tsv	analysis
+OCT	Synthetic_species_C	8	4	OCT.faa	OCT.gff3	OCT.models.tsv	analysis

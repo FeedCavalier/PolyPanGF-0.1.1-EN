@@ -1,0 +1,11 @@
+protein_id	gene_id	transcript_id
+b1	b1	b1.t
+b2	b2	b2.t
+b3	b3	b3.t
+b4	b4	b4.t
+TET_background1	TET_background1	TET_background1.t
+TET_background2	TET_background2	TET_background2.t
+TET_background3	TET_background3	TET_background3.t
+TET_background4	TET_background4	TET_background4.t
+TET_background5	TET_background5	TET_background5.t
+TET_background6	TET_background6	TET_background6.t
